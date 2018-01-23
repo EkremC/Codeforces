@@ -9,7 +9,7 @@ public class _50A_DominoPilling {
         int n = scanner.nextInt();
 
         int dominoes = (int) (Math.ceil(m / 2) * Math.ceil(n / 1));
-        if(m % 2 == 1){
+        if (m % 2 == 1) {
             dominoes += (int) (Math.ceil(n / 2));
         }
         System.out.println(dominoes);
