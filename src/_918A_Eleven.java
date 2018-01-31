@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// http://codeforces.com/problemset/problem/918/A
 public class _918A_Eleven {
 
     public static void main(String[] args) {

@@ -2,6 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
+// http://codeforces.com/problemset/problem/918/B
 public class _918B_RadioStation {
 
     public static void main(String[] args) {
