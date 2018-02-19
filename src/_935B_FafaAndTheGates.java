@@ -1,5 +1,3 @@
-package CodeforcesRound465;
-
 import java.util.Scanner;
 
 public class _935B_FafaAndTheGates {

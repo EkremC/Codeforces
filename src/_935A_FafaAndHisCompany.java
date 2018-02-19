@@ -1,5 +1,3 @@
-package CodeforcesRound465;
-
 import java.util.Scanner;
 
 public class _935A_FafaAndHisCompany {
@@ -9,8 +7,8 @@ public class _935A_FafaAndHisCompany {
         int n = sc.nextInt();
 
         int l = 0;
-        for(int i = 1; i < n; i++){
-            if(n % i == 0)
+        for (int i = 1; i < n; i++) {
+            if (n % i == 0)
                 l++;
         }
 
