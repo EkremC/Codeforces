@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // http://codeforces.com/contest/58/problem/B
-public class _58B_Coins {
+public class _058B_Coins {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

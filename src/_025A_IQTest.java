@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // http://codeforces.com/problemset/problem/25/A
-public class _25A_IQTest {
+public class _025A_IQTest {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

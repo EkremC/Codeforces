@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // http://codeforces.com/problemset/problem/69/A
-public class _69A_YoungPhysicist {
+public class _069A_YoungPhysicist {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

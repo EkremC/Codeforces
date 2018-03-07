@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // http://codeforces.com/problemset/problem/50/A
-public class _50A_DominoPilling {
+public class _050A_DominoPilling {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // http://codeforces.com/problemset/problem/71/A
-public class _71A_WayTooLongWords {
+public class _071A_WayTooLongWords {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
